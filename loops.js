@@ -28,4 +28,7 @@
 // .toUpperCase()
 // .toLowerCase()
 // .trim()   //remove the whitespace
-// 
+//  .slice(start, end) //returns part of string
+// .concat(str2) //joins str2 with str1
+// .replace(searchVal,newVal)
+// .str.CharAt(idx) 
