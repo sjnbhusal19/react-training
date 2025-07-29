@@ -61,3 +61,31 @@ for (let idx = 0; idx < num.length; idx++) {
 
 
 
+// Iteration Methods (Iterate over array elements):
+// forEach():
+// Executes a provided function once for each array element.
+
+// map():
+// Creates a new array populated with the results of calling a provided function on every element in the calling array.
+
+// filter():
+// Creates a new array with all elements that pass the test implemented by the provided function.
+
+// reduce():
+// Executes a reducer function on each element of the array, resulting in a single output value.
+
+// some():
+// Tests whether at least one element in the array passes the test implemented by the provided function. 
+
+// every():
+// Tests whether all elements in the array pass the test implemented by the provided function. 
+
+// find():
+// Returns the value of the first element in the array that satisfies the provided testing function.
+
+// findIndex():
+// Returns the index of the first element in the array that satisfies the provided testing function.
+
+
+
+
