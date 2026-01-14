@@ -6,6 +6,7 @@
 // 1.Number
 // 2. strign
 // 3.Boolean
+// Let isFollow= true or isFollow = false
 
 // 4. Undefined: A variable that has been declared but not assigned a value.
 // let notAssigned;
@@ -13,6 +14,7 @@
 
 
 // 5. Null:  Represents an intentional absence of any value.
+// let value=null (null means no value or absent , we know the value but its value is nothing or absent)
 
 // let empty = null;
 

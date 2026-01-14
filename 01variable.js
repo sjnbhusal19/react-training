@@ -1,3 +1,15 @@
+
+// -	Link html with js file
+// -	Show the console.log
+
+// Comments in js as
+//  //--single line comment
+//  and /* multiline comment*/
+
+// Variable 
+// -	It is space /container where data is stored.
+
+
 //case sensative 
 //only digits , underscore , letters and $ is allowed 
 //only , underscore , letters and $ is allowed  for the first letters
