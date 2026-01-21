@@ -7,7 +7,9 @@ let marks = [15,20,70]
 
 // .leangth 
 // indexes // arr[2]
-// push() : add to end
+
+// push() : add to end, change in origin array
+
 
 let arr = [1,2,3,4,5]
 
@@ -22,6 +24,7 @@ let arr = [1,2,3,4,5]
 
 // console.log(arr)
 // console.log(deletedItems)
+
 
 // toString() //returen array in string in another array and original array is not changed
 

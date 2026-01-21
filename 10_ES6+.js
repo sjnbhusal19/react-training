@@ -1,3 +1,34 @@
+
+
+//template literls
+const personalDetails = {
+  "name": "Binod",
+  "college": "ismt",
+  "address": "Chitwan",
+  "rollNumber":2
+}
+
+const mydetails = `My name is ${personalDetails.name} . I study in ${personalDetails.college} college . My roll number is 2. I live in Chitwan`
+
+console.log(mydetails)
+
+
+
+
+
+
+
+
+// //naming convensation in js
+// camelCase	    getUserData	      Variables, functions, methods
+// PascalCase   	UserProfile	      Classes, React components
+// snake_case	    user_profile	  ❌ Not common in JS (used in Python, APIs)
+// kebab-case	     user-profile	  URLs, CSS class names
+// UPPER_SNAKE_CASE	 MAX_LIMIT	      Constants
+
+
+
+
 // Destructuring (arrays/objects)
 
 // Array Destructuring:
@@ -6,9 +37,9 @@ const [a, b, c] = arr;
 console.log(a, b, c); // 1 2 3
 
 // Object Destructuring:
-const user = { name: "Sujan", age: 23 };
-const { name, age } = user;
-console.log(name, age); // Sujan 23
+// const user = { name: "Sujan", age: 23 };
+// const { name, age } = user;
+// console.log(name, age); // Sujan 23
 
 
 
@@ -74,10 +105,3 @@ let result = value1 ?? value2;
 
 
 
-
-// //naming convensation in js
-// camelCase	    getUserData	      Variables, functions, methods
-// PascalCase   	UserProfile	      Classes, React components
-// snake_case	    user_profile	  ❌ Not common in JS (used in Python, APIs)
-// kebab-case	     user-profile	  URLs, CSS class names
-// UPPER_SNAKE_CASE	 MAX_LIMIT	      Constants

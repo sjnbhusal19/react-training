@@ -34,6 +34,9 @@ console.log(result); // ➜ 45 (first number greater than 30)
 // info()	Informational output
 // warn()	Warning message
 // error()	Error message
+
+
+
 // table()	Display tabular data
 // dir()	Inspect object deeply
 // count()	Count function calls
